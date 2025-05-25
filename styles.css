@@ -1,0 +1,42 @@
+
+body {
+  
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+
+
+header {
+  background-color: #4e17e5;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+
+main {
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+  background-color: white;
+  
+}
+
+
+img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+}
+
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2196F3;
+}
+
+
