@@ -1,4 +1,3 @@
-
-function showMessage() {
-  alert("Hello, World!");
+function showAlert() {
+  alert("You clicked the button!");
 }
